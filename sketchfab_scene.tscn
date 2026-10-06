@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dly3i11jc8q78"]
+
+[ext_resource type="PackedScene" uid="uid://2njbtlyu0b5t" path="res://pucca.glb" id="1_r57si"]
+
+[node name="Sketchfab_Scene" instance=ExtResource("1_r57si")]
+
+[node name="Object_31" parent="Sketchfab_model/puccabueno_obj_cleaner_materialmerger_gles" index="29"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00092601776, -0.0016798973, -0.010998726)
